@@ -18,7 +18,7 @@ LDR	00822cam a2200313 c 4500
 250	## $a 4th ed.
 260	## $a San Francisco $b Addison-Wesley $c c2002
 300	## $a VI, 698 s. $b ill.
-650	#7 $a Optikk $2 noubomn
+650	#7 $a Optikk $2 no-ubo-mn
 650	#7 $a Optikk $v Lærebøker $2 tekord
 653	## $a optikk $a lærebøker
 655	#7 $a Lærebøker $2 noubomn
